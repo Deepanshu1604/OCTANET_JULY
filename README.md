@@ -1,2 +1,2 @@
 # OCTANET_JULY
-Web Development Intern
+In this I have completed some tasks for my internship.
